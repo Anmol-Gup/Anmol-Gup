@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Prakash Gupta</h1>
+<h2>About Me</h2>
+<p>Currently, learning data analysis technologies & tools like Excel, Power BI, SQL, & Python. Knowledge of Web technologies like HTML5, CSS3 & JavaScript.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol-gup&label=Profile%20views&color=0e75b6&style=flat" alt="anmol-gup" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anmol-Gup](https://github.com/Anmol-Gup)
