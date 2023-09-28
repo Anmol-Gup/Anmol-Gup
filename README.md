@@ -15,7 +15,7 @@
 <a href="https://facebook.com/profile.php?id=100024963634024" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suryagupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surya-prakash-gupta-39b497180" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-prakash-gupta-39b497180" height="30" width="40" /></a>
 <a href="https://instagram.com/suryagupta314" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suryagupta314" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/surya gupta" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surya gupta" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@suryagupta1999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="surya gupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prakash_surya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakash_surya" height="30" width="40" /></a>
 </p>
 
