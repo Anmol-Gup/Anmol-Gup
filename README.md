@@ -6,7 +6,7 @@
 ## 🌟 Skills
 
 - **Programming Languages:**
-  - Proficient in Python and C++.
+  - Python & C++.
   
 - **Web Development:**
   - Experience with HTML, CSS, JavaScript & PHP.
